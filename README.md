@@ -1,5 +1,11 @@
 ![homepage](https://github.com/user-attachments/assets/d81c1ad8-b2cd-40a5-9f6a-1f3090471242)
 This is the home page.
+![createItem](https://github.com/user-attachments/assets/e806b3f8-a9d6-4d28-a354-7692c252cf0d)
+Create Items page.
+![itemList](https://github.com/user-attachments/assets/fca4df3f-527a-4c15-ac1e-817ac839b5ee)
+Items List.
+![updateItem](https://github.com/user-attachments/assets/f9fe8a0a-8bec-426c-9dac-4a666e735e86)
+Update Page.
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
